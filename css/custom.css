@@ -1,0 +1,43 @@
+  .sold a:hover {
+    background: FFAC9A;
+    color: E03D19;
+    text-align: center;
+  }
+
+  /*.btn colr*/
+
+  .art-gallery li img {
+  	max-height: 300px;
+  }
+
+.hero {
+background: no-repeat center center;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+display: table;
+width: 100%;
+}
+
+.hero .container {
+display: table-cell;
+text-align: center;
+vertical-align: middle;
+height: 689px
+}
+
+.ArtistImage {
+  float: left;
+  padding: 0px 25px 15px 0px;
+}
+
+ .title { 
+   position: absolute; 
+   font-size: 60px;
+   top: 400px; 
+   width: 50%; 
+   text-align: center;
+   background: #D6E52A;
+   padding: 20px 0;
+}
